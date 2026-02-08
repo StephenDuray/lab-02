@@ -1,4 +1,4 @@
-.headerTag {
+/* /* .headerTag {
     display: flex;
     align-items: center;
     padding: 15px 50px;
@@ -49,6 +49,7 @@
     overflow: hidden; 
 }
 /* Top-Left Bracket */
+/*  
 .sectionTag::before {
     content: "";
     position: absolute;
@@ -60,7 +61,7 @@
     border-left: 3px solid black;
 }
 
-/* Bottom-Right Bracket */
+/* Bottom-Right Bracket
 .sectionTag::after {
     content: "";
     position: absolute;
@@ -104,7 +105,6 @@
     width: 280px;           
     height: 380px;          
     background-color: white; 
-    /* border: 2.5px solid #020024; */
     border-radius: 15px;
     padding: 0; 
     overflow: hidden; 
@@ -163,4 +163,5 @@
   border-radius: 20px; 
   transform: scale(1.05);
 }
-
+ */
+ 
